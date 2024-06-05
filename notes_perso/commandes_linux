@@ -1,0 +1,17 @@
+	ls (list) : lister tout les directoires et fichiers
+	¢pwd : afficher le â€œcheminâ€ actuel
+	¢echo : â€œÃ©quivalent de printâ€ -> Ã  dÃ©tailler (>>)
+	¢cd (change directory) : changer de directoire (seul : retour Ã  root)
+	¢chmod (change mode) : changer les autorisations dâ€™un fichier -> Ã  dÃ©tailler (r=4 w=2 x=1)
+	¢touch : crÃ©er un fichier (.txt ou autre pour extension)
+	¢rm (remove) : supprimer un fichier
+	¢mkdir (make directory) : crÃ©er un dossier
+	¢rmdir (remove directory) : supprimer un dossier
+	¢top : afficher infos CPU (plus infos RAM et stockage) -> touche u pour filtrer par utilisation des ressources
+	¢df : afficher infos disques (-h)
+	¢free : afficher infos RAM
+	¢cat : afficher le contenu dâ€™un document
+	¢less : afficher les derniÃ¨res lignes dâ€™un document
+	¢mv : renommer ou dÃ©placer un document
+	¢../.. : reculer dâ€™un certain nombre de dossiers
+	¢vi : modifier un dossier
